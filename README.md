@@ -2,7 +2,7 @@
 
 Copy the Markdown template below, paste it into your profile repository's README.md file, and replace the placeholder fields (such as [Your Name], [GitHubUsername], and URLs) with your own details.
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm RAJKUMAR S</h1>
 
 <h3 align="center">
 🚀 Full Stack Web Developer | Passionate Problem Solver | Building Modern Web Experiences
