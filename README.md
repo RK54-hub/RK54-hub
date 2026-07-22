@@ -1,6 +1,4 @@
-# GitHub Profile README Template
 
-Copy the Markdown template below, paste it into your profile repository's README.md file, and replace the placeholder fields (such as [Your Name], [GitHubUsername], and URLs) with your own details.
 
 <h1 align="center">Hi 👋, I'm RAJKUMAR S</h1>
 
@@ -29,15 +27,15 @@ Copy the Markdown template below, paste it into your profile repository's README
 
 <p align="left">
 
-<a href="[LinkedIn URL]">
+<a href="https://www.linkedin.com/in/rajkumar-rk-64733030a?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="[Portfolio URL]">
+<a href="https://portfolio-129-1.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:[Email Address]">
+<a href="mailto:rajkumar.senthilvel@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -65,9 +63,7 @@ Modern personal portfolio showcasing projects, skills, and experience.
 
 `HTML` `CSS` `JavaScript` `React`
 
-🔗 Live Demo: [Portfolio URL]
 
-📂 Repository: [GitHub Repository]
 
 ---
 
@@ -79,9 +75,7 @@ A responsive online shopping platform with authentication and cart functionality
 
 `React` `Node.js` `Express` `MongoDB`
 
-🔗 Live Demo: [Project URL]
 
-📂 Repository: [GitHub Repository]
 
 ---
 
@@ -93,9 +87,7 @@ A productivity application to organize daily tasks with authentication.
 
 `React` `Firebase` `Tailwind CSS`
 
-🔗 Live Demo: [Project URL]
 
-📂 Repository: [GitHub Repository]
 
 ---
 
@@ -161,7 +153,7 @@ A productivity application to organize daily tasks with authentication.
 
 ---
 
-# Goals for 2025
+# Goals for 2026
 
 - Contribute to Open Source
 - Build SaaS Applications
